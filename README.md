@@ -32,4 +32,5 @@ Comunidades nacioanis, ordenadas de forma alfabética.
 |            Nome          |  Palavras Chave     |                Links                   |                                Descrição                                |
 |--------------------------|---------------------|----------------------------------------|-------------------------------------------------------------------------|
 | Clube dos Programadores  | _geral_             | [Telegram](https://t.me/clubedosprogramadores) - [Facebook](https://www.facebook.com/groups/clubedosprogramadores)    | Comunidade brasileira de desenvolvimento de software                    |
+| Escalando com Swift      | _Swift_             | [Discord](https://discord.com/invite/S6MVg8Z9g4)| Comunidade Brasileira de estudos relacionados a desenvolvimento iOS        |
 | PHP Brasil               | _php laravel_       | [Telegram](https://t.me/phpbrasil)     | |
